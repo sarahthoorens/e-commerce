@@ -4,7 +4,7 @@
 
   **Completion Date:**  11/04/22 |
   
-  **WALK-THROUGH CAN BE FOUND HERE:** <br>
+  [**WALK-THROUGH CAN BE FOUND HERE:**](https://watch.screencastify.com/v/o3AYqtaDVb3dkqL39i68)<br>
   
   **Technologies used:**  Node.js, JavaScript, Sequelize, Express.js API, MySql<br>
   **Project goal:** Build the back end for an e-commerce site by modifying starter code. <br>
