@@ -6,8 +6,7 @@ const ProductTag = require('./ProductTag');
 
 Product.belongsToMany(Tag, {
   through: { model: ProductTag,
-    foreignKey: 'product_id',
-  targetKey: 'id'}
+    foreignKey: 'product_id',}
 });
 
 Tag.belongsToMany(Product, {
