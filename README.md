@@ -21,7 +21,7 @@
   
   ## Description
 
-  The instructions for this project were to build the back-end of an e-commerce site using Sequelize ORM models and MySQL to interact with the data. 
+  The instructions for this project were to build the back-end of an e-commerce site using Sequelize ORM models and MySQL to effectively interact with the inventory data after seeding a database. Server tests using Insomnia were required to confirm GET, POST, and DELETE routes were correctly coded to interact with the product, category and tag models. 
 
   ![Insomnia demo screenshot at products list](/Develop/assets/insomnia.png)
 
