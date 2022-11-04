@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-  **Completion Date:**  11/04/22 |
+  **Completion Date:**  11/04/22 
   
   [**WALK-THROUGH CAN BE FOUND HERE**](https://watch.screencastify.com/v/o3AYqtaDVb3dkqL39i68)<br>
   
